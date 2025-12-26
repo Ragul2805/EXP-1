@@ -45,18 +45,26 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+![exp1-circuit kvl](https://github.com/user-attachments/assets/ba349961-0e42-4809-b9f7-5ff32bb37b06)
 
 
 b.  KCL:
  
+![exp1 circuit kcl](https://github.com/user-attachments/assets/fa7f5b4c-8952-4d41-bdcf-ef8c7ac6ddec)
 
 Calculation:
 
 a.   KVL:
- 
+ ![cal-kvl1](https://github.com/user-attachments/assets/102bc73d-a78d-4fac-b49b-2e4ec57da770)
+
+![cal-kvl2](https://github.com/user-attachments/assets/375d0999-95ac-49ca-88ed-feb3c33f8172)
 
 
 b.  KCL:
+![cal-kcl1](https://github.com/user-attachments/assets/5ced7556-95eb-4707-881e-cac583a7c350)
+
+
+![cal-kcl2](https://github.com/user-attachments/assets/d46b8c8f-e179-4641-8aaa-b3be08e7bea0)
 
 
 
@@ -64,10 +72,14 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+
+
+![exp1 tab kvl](https://github.com/user-attachments/assets/f1074768-dc0f-4c8f-954c-369577d5633f)
 
 
 b.  KCL:
+
+ ![exp1 tab kcl](https://github.com/user-attachments/assets/0de338c1-4734-46ab-afa6-e7ba221cc87a)
 
 
 
